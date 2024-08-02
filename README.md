@@ -9,3 +9,5 @@ https://twitter.com/patrickwardle/status/1327726496203476992
 https://github.com/PureDarwin/PureDarwin/blob/main/APPLE_LICENSE.txt
 
 https://github.com/PureDarwin/PureDarwin/blob/main/APPLE_DRIVER_LICENSE.txt
+
+https://github.com/kholia/OSX-KVM#is-this-legal
